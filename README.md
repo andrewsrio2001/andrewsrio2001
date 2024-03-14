@@ -1,22 +1,15 @@
-<h1 align="center">Hey Everyone 👋, I'm Andrews</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&size=25&duration=500&pause=2000&color=63DF0D&random=false&width=435&lines=Hey+Everyone+%F0%9F%91%8B%2C+I'm+Andrews" alt="Typing SVG" /></a>
 
-<h3 align="center">Cloud and DevOps Engineer | AWS and Azure Enthusiast | Eager to Contribute to Innovative Cloud Solutions" | Python, Java (Fresher)</h3>
+<h3 align="center">Cloud and DevOps Engineer | AWS and Azure Enthusiast | Eager to Contribute to "Innovative Cloud Solutions" | Python, Java (Fresher)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrewsrio2001&label=Profile%20views&color=0e75b6&style=flat-square" alt="andrewsrio2001" /> </p>
-
-
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 - 🌱 I’m currently learning **Cloud,Java,Framework**
-
 - 👯 I’m looking to collaborate on **Open source projects**
- 
 - 👨‍💻 All of my projects are available at https://github.com/andrewsrio2001
-
 - 💬 Ask me about **DevOps & Cloud**
-
 - 📫 How to reach me **andrewsrio2001@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
