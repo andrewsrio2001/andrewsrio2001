@@ -29,5 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewsrio2001&show_icons=true&locale=en&layout=compact" alt="andrewsrio2001" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewsrio2001&show_icons=true&locale=en" alt="andrewsrio2001" /></p>
-
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github&preferLogin=false">    <img  alt="andrewsrio2001's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/andrewsrio2001?cardType=github&theme=github&preferLogin=false" />  </a>
