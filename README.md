@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Terraform**
 - 👨‍💻 All of my projects are available at https://github.com/andrewsrio2001
-- 💬 Ask me about **DevOps & Cloud**
 - 📫 How to reach me **andrewsrio2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
