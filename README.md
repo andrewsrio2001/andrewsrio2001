@@ -7,9 +7,17 @@
 <br/>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
+- From **INDIA**
+
 - 🌱 I’m currently learning **Terraform**
+  
 - 👨‍💻 All of my projects are available at https://github.com/andrewsrio2001
+  
 - 📫 How to reach me **andrewsrio2001@gmail.com**
+
+- Intrest in **DevOps,Datatbase,Open source,Cloud**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mandrews2552001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40" /></a>
@@ -18,7 +26,7 @@
   
 </p>
 
-
+<hr/>
 <h3 align="left">Languages :</h3>
  <p align="left">
   <a href="https://skillicons.dev">
@@ -31,10 +39,12 @@
     <img src="https://skillicons.dev/icons?i=aws,azure,git,github,docker,grafana,jenkins,linux,redhat,windows,terraform,prometheus" />
   </a>
 </p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png" alt="Windows" width="40" height="40"/>
-</a>
+    <hr/>
 
-</p>
+    <div>
+    
+    </div>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewsrio2001&layout=pie" width="250" alt="andrewsrio2001" /></p>
 
