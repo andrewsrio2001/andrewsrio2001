@@ -9,7 +9,7 @@
 
 - From **INDIA**
 
-- 🌱 I’m currently learning **Terraform**
+- 🌱 I’m currently learning **open source**
   
 - 👨‍💻 All of my projects are available at https://github.com/andrewsrio2001
   
