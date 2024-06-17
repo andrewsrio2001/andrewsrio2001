@@ -9,13 +9,13 @@
 
 - From **INDIA**
 
-- 🌱 I’m currently learning **open source**
+- 🌱 I’m Currently Learning
+  Kubernetes, 
+    Advanced AWS Services (e.g., Lambda, ECS),
+    Azure DevOps
   
-- 👨‍💻 All of my projects are available at https://github.com/andrewsrio2001
-  
-- 📫 How to reach me **andrewsrio2001@gmail.com**
-
-- Intrest in **DevOps,Datatbase,Open source,Cloud**
+- 📫 How to Reach Me
+Email: andrewsrio2001@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
