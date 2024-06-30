@@ -1,7 +1,7 @@
 
 <p> <img align="left"width="70" src="https://media.tenor.com/X5DpGSGL2fAAAAAi/hi-mystic-messenger.gif" alt="andrewsrio2001" /> </p>     
 <a><img width="750" src="https://readme-typing-svg.demolab.com?font=Waterfall&size=25&pause=1000&color=010406&random=false&width=435&lines=Hi+Everyone+I'm+Andrews+%F0%9F%98%89" alt="Typing SVG" /></a> 
-<p><h3 align="center">Cloud and DevOps Engineer | AWS and Azure Enthusiast | Eager to Contribute to "Innovative Cloud Solutions" | Python, Java (Fresher)</h3><p>
+<p><h3 align="center">Cloud and DevOps Engineer | AWS and Azure Enthusiast | Eager to Contribute to "Innovative Cloud Solutions" | Python, SQL (Fresher)</h3><p>
   <hr/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=andrewsrio2001&label=Profile%20views&color=0e75b6&style=flat-square" alt="andrewsrio2001" /> </p>
 <br/>
