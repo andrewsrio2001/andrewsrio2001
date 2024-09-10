@@ -10,7 +10,6 @@
 - From **INDIA**
   
 - 🌱 I’m Currently Learning
-  Kubernetes, 
     Advanced AWS Services (e.g., Lambda, ECS),
     Azure DevOps
   
