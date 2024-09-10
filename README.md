@@ -10,8 +10,7 @@
 - From **INDIA**
   
 - 🌱 I’m Currently Learning
-    Advanced AWS Services (e.g., Lambda, ECS),
-    Azure DevOps
+    Advanced Cloud
   
 - 📫 How to Reach Me
 Email: andrewsrio2001@gmail.com
