@@ -1,8 +1,14 @@
 
-<p> <img align="left"width="70" src="https://media.tenor.com/X5DpGSGL2fAAAAAi/hi-mystic-messenger.gif" alt="andrewsrio2001" /> </p>     
-<a><img width="750" src="https://readme-typing-svg.demolab.com?font=Waterfall&size=25&pause=1000&color=010406&random=false&width=435&lines=Hi+Everyone+I'm+Andrews+%F0%9F%98%89" alt="Typing SVG" /></a> 
-<p><h3 align="center">Cloud and DevOps Engineer | AWS and Azure Enthusiast | Eager to Contribute to "Innovative Cloud Solutions" | Python, SQL (Fresher)</h3><p>
-  <hr/>
+<p> 
+  <img align="left" width="70" src="https://media.tenor.com/X5DpGSGL2fAAAAAi/hi-mystic-messenger.gif" alt="andrewsrio2001" /> 
+</p>     
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mandrews25/">
+    <img src="https://readme-typing-svg.demolab.com?font=Georama&weight=600&size=30&duration=3000&pause=500&color=0EA5E9&background=0D111700&center=true&vCenter=true&width=800&height=80&lines=🚀+Hi+Everyone,+I'm+Andrews+😉;+%7C+Cloud+%26+DevOps+Architect;☁️+AWS+%7C+Azure+Enthusiast;🌍+5K%2B+LinkedIn+Network+%7C+Open+for+Collaborations+🤝" alt="Header">
+  </a>
+</div>
+
 
 <p align="center"> 
     <img src="https://img.shields.io/badge/Profile%20Views-20.5k-blue?style=flat-square" alt="Profile Views" />
@@ -10,13 +16,24 @@
 
 
 
-- From **INDIA**
-  
-- 🌱 I’m Currently Learning
-    Advanced Cloud
-  
-- 📫 How to Reach Me
-Email: andrewsrio2001@gmail.com
+### 🎯 **Core Expertise**
+<p align="center">
+  <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white&labelColor=1a1a1a">
+  <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white&labelColor=1a1a1a">
+  <img src="https://img.shields.io/badge/-Intune-5E5E5E?style=flat&logo=microsoft&logoColor=white&labelColor=1a1a1a">
+  <img src="https://img.shields.io/badge/-DevOps-2496ED?style=flat&logo=azuredevops&logoColor=white&labelColor=1a1a1a">
+</p>
+
+
+
+
+**☁️ 1+ Year Cloud Journey**  
+Specializing in multi-cloud solutions (AWS | Azure). DevOps Automation  
+
+**🛠️ Core Expertise**:  
+`Infrastructure Design` • `CI/CD Pipelines` • `Endpoint Management` • `Cost Optimization`  • `DevOps 
+
+
 
 
 <h3 align="left">Connect with me:</h3>
