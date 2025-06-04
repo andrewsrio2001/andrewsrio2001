@@ -1,9 +1,4 @@
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mandrews25/">
-    <img src="https://readme-typing-svg.demolab.com?font=Georama&weight=600&size=30&duration=3000&pause=500&color=0EA5E9&background=0D111700&center=true&vCenter=true&width=800&height=80&lines=🚀+Hi+Everyone,+I'm+Andrews+😉;+%7C+Cloud+%26+DevOps+Architect;☁️+AWS+%7C+Azure+Enthusiast;🌍+5K%2B+LinkedIn+Network+%7C+Open+for+Collaborations+🤝" alt="Header">
-  </a>
-</div>
 
 
 <p align="center"> 
