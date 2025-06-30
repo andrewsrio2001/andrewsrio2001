@@ -51,7 +51,7 @@
 
 ### 🌐 **Connect With Me**
 <p align="center">
-  <a href="https://www.linkedin.com/in/mandrews2552001/">
+  <a href="https://www.linkedin.com/in/mandrews25/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
@@ -62,7 +62,7 @@
 
 ### 🕹️ **Play Snake Game**
 <p align="center">
-  <img src="https://github.com/andrewsrio2001/andrewsrio2001/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://andrewsrio2001.github.io/andrewsrio2001/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
 ---
