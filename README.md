@@ -7,51 +7,66 @@
 
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e4c92&height=200&section=header&text=👋%20Hi,%20I'm%20Andrews&fontSize=40&fontColor=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&color=0e4c92&center=true&vCenter=true&multiline=true&width=700&height=80&lines=DevOps+Engineer+%7C+Cloud+Specialist+%7C+AWS+%7C+Azure;Automation+Enthusiast+%7C+1%2B+Years+in+Cloud+Journey" alt="Typing SVG" />
+</p>
+
+
+---
+
 ### 🎯 **Core Expertise**
 <p align="center">
-  <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white&labelColor=1a1a1a">
-  <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white&labelColor=1a1a1a">
-  <img src="https://img.shields.io/badge/-Intune-5E5E5E?style=flat&logo=microsoft&logoColor=white&labelColor=1a1a1a">
-  <img src="https://img.shields.io/badge/-DevOps-2496ED?style=flat&logo=azuredevops&logoColor=white&labelColor=1a1a1a">
+  <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Intune-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-DevOps-2496ED?style=for-the-badge&logo=azuredevops&logoColor=white" />
 </p>
 
+---
 
+### 💡 **About Me**
+🌟 1+ Year Cloud Journey specializing in **Multi-Cloud Solutions**  
+🔧 Building **CI/CD pipelines**, managing **Infrastructure as Code**, and automating deployments  
+📈 Passionate about **Cost Optimization** and **Security Best Practices**  
 
+---
 
-**☁️ 1+ Year Cloud Journey**  
-Specializing in multi-cloud solutions (AWS | Azure). DevOps Automation  
-
-**🛠️ Core Expertise**:  
-`Infrastructure Design` • `CI/CD Pipelines` • `Endpoint Management` • `Cost Optimization`  • `DevOps 
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-
-<a href="https://www.linkedin.com/in/mandrews2552001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40" /></a>
-
-  
-</p>
-
-<hr/>
-<h3 align="left">Languages :</h3>
- <p align="left">
+### 🛠️ **Languages & Tools**
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,linux,git,github,jenkins,prometheus,grafana,windows" />
   </a>
 </p>
-<h3 align="left">Tech Tools :</h3>
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,git,github,docker,grafana,jenkins,linux,redhat,windows,terraform,prometheus" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,js" />
   </a>
 </p>
-    <hr/>
-  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewsrio2001&layout=pie" width="250" alt="andrewsrio2001" /></p>
+---
 
-  <a>    <img  alt="andrewsrio2001's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/andrewsrio2001?cardType=github&theme=github&preferLogin=false" />  </a>
+### 🌐 **Connect With Me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/mandrews2552001/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+---
+
+### 🕹️ **Play Snake Game**
+<p align="center">
+  <img src="https://github.com/andrewsrio2001/andrewsrio2001/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e4c92&height=120&section=footer" />
+</p>
